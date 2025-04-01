@@ -46,7 +46,8 @@ st.markdown(background_css, unsafe_allow_html=True)
 
 # App title
 st.markdown("""
-    <h1 style='text-align: center;'>🏡 Real Estate Price Prediction</h1>
+    <h1 style='text-align: center;'>🏡 Real Estate Property Price Prediction</h1>
+    <h2 style='text-align: center;'>©️ Kelta Impex </h2>
     <h3 style='text-align: center; color: lightgreen;'>Enter the details below to estimate the property value</h3>
 """, unsafe_allow_html=True)
 
